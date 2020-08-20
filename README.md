@@ -1,6 +1,6 @@
 # Massive-Data-Mining
 
-Coursework for CS550 : Massiv Data Mining. 
+Coursework for CS550 : Massive Data Mining. 
 
 ### Assignemnets 
 1. Map-Reduce, Association Rules, Locality-Sensitive Hashing (LSH)/
