@@ -10,4 +10,4 @@ Coursework for CS550 : Massive Data Mining.
 
 ### Project
 
-1. MovieLens Recommendation Engine
+1. [MovieLens Recommender System](https://github.com/keya-desai/MovieLens-Recommender-System)
